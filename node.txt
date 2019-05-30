@@ -1,6 +1,6 @@
 #节点列表
 #yl
-ssr://MTQ5LjEyOS4xMDguODI6MjMzMzphdXRoX2NoYWluX2I6YWVzLTI1Ni1jZmI6cGxhaW46ZEdWemRITnpjZw
+ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdTpyZW1hcmtzOmVXVnNaV2s
 
 #新加坡铜杰5.27
 ssr://MTQ5LjEyOS4zNC4zNDo4NjUyOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
@@ -10,7 +10,3 @@ ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZD
 ssr://NDcuMjQwLjIzLjkyOjg1NDE6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1
 #新加坡昱炫5.24
 ssr://MTQ5LjEyOS41NS4xNzE6ODQxMjphdXRoX2NoYWluX2I6YWVzLTI1Ni1jZmI6cGxhaW46ZVhWbGQyRnU
-
-
-#test
-ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
