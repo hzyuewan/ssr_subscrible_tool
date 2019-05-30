@@ -1,7 +1,6 @@
 #节点列表
 #yl
-ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdS8_ZVdWc1pXaw
-
+ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdS8_cmVtYXJrcz1lV1ZzWldr
 #新加坡铜杰5.27
 ssr://MTQ5LjEyOS4zNC4zNDo4NjUyOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
 #香港业伟5.27
