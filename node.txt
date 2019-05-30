@@ -10,3 +10,7 @@ ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZD
 ssr://NDcuMjQwLjIzLjkyOjg1NDE6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1
 #新加坡昱炫5.24
 ssr://MTQ5LjEyOS41NS4xNzE6ODQxMjphdXRoX2NoYWluX2I6YWVzLTI1Ni1jZmI6cGxhaW46ZVhWbGQyRnU
+
+
+#test
+ssr://NDcuMjQwLjIzLjExNzo4NTQxOmF1dGhfY2hhaW5fYjphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
