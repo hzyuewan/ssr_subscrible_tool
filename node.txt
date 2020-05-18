@@ -22,7 +22,7 @@ ssr://NDcuODguNjAuNjg6Njc4OTphdXRoX2NoYWluX2I6YWVzLTI1Ni1jZmI6cGxhaW46ZVhWbGQyRn
 
 
 #Public-Norge---185.90.61.162
-ssr://MTg1LjkwLjYxLjE2Mjo1Njc4OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
+ssr://MTg1LjkwLjYxLjE2Mjo5ODc2OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjpwbGFpbjplWFZsZDJGdQ
 
 
 #Public-Jpan---47.74.12.110
