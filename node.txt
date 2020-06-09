@@ -6,7 +6,7 @@ ssr://NDcuODguMTcuMjQ6MTAwNTE6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMk
 
 
 #Public-Jpan1---47.74.12.110
-ssr://NDcuNzQuMTIuMTEwOjEwMDYwOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
+ssr://NDcuNzQuNDQuMjQxOjEwMDYwOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
 
 
 #Public-Jpan2---47.74.14.99
