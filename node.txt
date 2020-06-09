@@ -1,13 +1,13 @@
 #节点列表
 
 
-#Public-USA---198.11.179.210
-ssr://NDcuODguMTcuMjQ6MTAwNTE6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1TWpBeU1B
+#Public-USA---USA
+ssr://NDcuODguMTcuMjQ6MTAwNjA6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1TWpBeU1B
 
 
-#Public-Jpan1---47.74.12.110
+#Public-Jpan1---Jpan1
 ssr://NDcuNzQuNDQuMjQxOjEwMDYwOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
 
 
-#Public-Jpan2---47.74.14.99
-ssr://NDcuNzQuMTQuOTk6MTAwNjA6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1
+#Public-Jpan2---Jpan2
+ssr://NDcuMjQ1LjMuMTg0OjEwMDYwOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpwbGFpbjplWFZsZDJGdQ
