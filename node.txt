@@ -2,7 +2,7 @@
 
 
 #Public-USA---USA
-ssr://NDcuODguMTcuMjQ6MTAwNjA6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1TWpBeU1B
+ssr://NDcuODguMTcuMjQ6MTAwODA6YXV0aF9jaGFpbl9iOmFlcy0yNTYtY2ZiOnBsYWluOmVYVmxkMkZ1TWpBeU1B
 
 
 #Public-Jpan1---Jpan1
